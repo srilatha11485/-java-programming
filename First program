@@ -1,0 +1,9 @@
+//19BQ1A05L7-CSED
+import java.io.*;
+public class Main{
+        public static void main(String args[]){
+            System.out.println("Hi, Welcome srilatha to the World of JAVA");
+                // Write your code here
+        }
+}
+
