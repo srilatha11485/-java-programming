@@ -1,0 +1,12 @@
+//19BQ1A05L7-CSE-D
+import java.io.*;
+public class Main{
+           public static void main(String args[]){
+               int a=10;
+               int b=20;
+               int c;
+               c=a+b;
+               System.out.println(c);
+                      // Write your code here
+           }
+}
